@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FarmaOnline</string>
+    <string name="title_activity_bienvenida">Bienvenida</string>
+    <string name="title_activity_login_user">Registro</string>
+    <string name="title_activity_farma_online">Farmacia Online</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
